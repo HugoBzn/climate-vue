@@ -71,6 +71,7 @@ body {
   cursor: pointer;
   padding: 1rem;
   margin-top: 2rem;
+  border-radius: 1rem;
 }
 .campo ::placeholder {
   color: var(--blanco);
